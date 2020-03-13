@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/learning-crawlers/CNEP.svg)](http://hits.dwyl.com/learning-crawlers/CNEP)
+
 # CNEP
 Extração de dados com Requests para listar empresas do CNEP - Cadastro Nacional de Empresas Punidas
 
